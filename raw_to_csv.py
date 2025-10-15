@@ -366,7 +366,7 @@ def main():
     df = pd.DataFrame.from_dict(final_result, orient='index')
     df.index.name = 'uid'
     df.reset_index(inplace=True)
-    df.to_csv("pre_results.csv", index=False)
+    df.to_csv("preliminary_results.csv", index=False)
 
 
 if __name__ == "__main__":
