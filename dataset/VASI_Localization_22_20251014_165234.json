@@ -1,0 +1,91 @@
+{
+    "gameStatus": 2,
+    "id":"22",
+    "username": "cfan307",
+    "trial": [
+        {
+            "startTime": "2025-10-13T06:04:39.6526690Z",
+            "endTime": "2025-10-13T06:04:42.7880640Z",
+            "targetAz": 45,
+            "responseAz": 90,
+            "reactionTime": 3.1353759765625
+        },
+        {
+            "startTime": "2025-10-13T06:04:43.7886600Z",
+            "endTime": "2025-10-13T06:04:47.5465670Z",
+            "targetAz": 315,
+            "responseAz": 225,
+            "reactionTime": 3.757904052734375
+        },
+        {
+            "startTime": "2025-10-13T06:04:48.5475360Z",
+            "endTime": "2025-10-13T06:04:51.3905750Z",
+            "targetAz": 270,
+            "responseAz": 270,
+            "reactionTime": 2.843017578125
+        },
+        {
+            "startTime": "2025-10-13T06:04:52.3910660Z",
+            "endTime": "2025-10-13T06:04:56.9449970Z",
+            "targetAz": 0,
+            "responseAz": 315,
+            "reactionTime": 4.55389404296875
+        },
+        {
+            "startTime": "2025-10-13T06:04:57.9447580Z",
+            "endTime": "2025-10-13T06:05:01.7897790Z",
+            "targetAz": 180,
+            "responseAz": 0,
+            "reactionTime": 3.845001220703125
+        },
+        {
+            "startTime": "2025-10-13T06:05:02.7898770Z",
+            "endTime": "2025-10-13T06:05:06.3567810Z",
+            "targetAz": 270,
+            "responseAz": 270,
+            "reactionTime": 3.56689453125
+        },
+        {
+            "startTime": "2025-10-13T06:05:07.3556610Z",
+            "endTime": "2025-10-13T06:05:10.7962570Z",
+            "targetAz": 135,
+            "responseAz": 90,
+            "reactionTime": 3.4405517578125
+        },
+        {
+            "startTime": "2025-10-13T06:05:11.7958170Z",
+            "endTime": "2025-10-13T06:05:15.3765720Z",
+            "targetAz": 270,
+            "responseAz": 270,
+            "reactionTime": 3.5806884765625
+        },
+        {
+            "startTime": "2025-10-13T06:05:16.3764940Z",
+            "endTime": "2025-10-13T06:05:19.4259940Z",
+            "targetAz": 315,
+            "responseAz": 225,
+            "reactionTime": 3.04949951171875
+        },
+        {
+            "startTime": "2025-10-13T06:05:20.4244200Z",
+            "endTime": "2025-10-13T06:05:23.2957260Z",
+            "targetAz": 90,
+            "responseAz": 135,
+            "reactionTime": 2.87127685546875
+        },
+        {
+            "startTime": "2025-10-13T06:05:24.2968910Z",
+            "endTime": "2025-10-13T06:05:26.5132600Z",
+            "targetAz": 180,
+            "responseAz": 0,
+            "reactionTime": 2.216339111328125
+        },
+        {
+            "startTime": "2025-10-13T06:05:27.5122370Z",
+            "endTime": "2025-10-13T06:05:30.4777890Z",
+            "targetAz": 0,
+            "responseAz": 180,
+            "reactionTime": 2.965545654296875
+        }
+    ]
+}

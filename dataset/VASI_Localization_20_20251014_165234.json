@@ -1,0 +1,91 @@
+{
+    "gameStatus": 2,
+    "id":"20",
+    "username": "kbia984",
+    "trial": [
+        {
+            "startTime": "2025-10-13T05:59:08.8339710Z",
+            "endTime": "2025-10-13T05:59:15.5523610Z",
+            "targetAz": 270,
+            "responseAz": 270,
+            "reactionTime": 6.718046188354492
+        },
+        {
+            "startTime": "2025-10-13T05:59:16.5458850Z",
+            "endTime": "2025-10-13T05:59:19.5840000Z",
+            "targetAz": 90,
+            "responseAz": 90,
+            "reactionTime": 3.0380992889404299
+        },
+        {
+            "startTime": "2025-10-13T05:59:20.5825580Z",
+            "endTime": "2025-10-13T05:59:23.0490160Z",
+            "targetAz": 315,
+            "responseAz": 315,
+            "reactionTime": 2.4664459228515627
+        },
+        {
+            "startTime": "2025-10-13T05:59:24.0486960Z",
+            "endTime": "2025-10-13T05:59:33.0857440Z",
+            "targetAz": 225,
+            "responseAz": 270,
+            "reactionTime": 9.037017822265625
+        },
+        {
+            "startTime": "2025-10-13T05:59:34.0847540Z",
+            "endTime": "2025-10-13T05:59:39.5058120Z",
+            "targetAz": 270,
+            "responseAz": 315,
+            "reactionTime": 5.421039581298828
+        },
+        {
+            "startTime": "2025-10-13T05:59:40.5028100Z",
+            "endTime": "2025-10-13T05:59:43.1925290Z",
+            "targetAz": 180,
+            "responseAz": 0,
+            "reactionTime": 2.6897048950195314
+        },
+        {
+            "startTime": "2025-10-13T05:59:44.1912990Z",
+            "endTime": "2025-10-13T05:59:46.5616270Z",
+            "targetAz": 135,
+            "responseAz": 90,
+            "reactionTime": 2.370311737060547
+        },
+        {
+            "startTime": "2025-10-13T05:59:47.5602700Z",
+            "endTime": "2025-10-13T05:59:50.0969130Z",
+            "targetAz": 0,
+            "responseAz": 0,
+            "reactionTime": 2.5366287231445314
+        },
+        {
+            "startTime": "2025-10-13T05:59:51.0959210Z",
+            "endTime": "2025-10-13T05:59:53.0197070Z",
+            "targetAz": 315,
+            "responseAz": 315,
+            "reactionTime": 1.92376708984375
+        },
+        {
+            "startTime": "2025-10-13T05:59:54.0186230Z",
+            "endTime": "2025-10-13T05:59:55.7901990Z",
+            "targetAz": 180,
+            "responseAz": 45,
+            "reactionTime": 1.7715606689453126
+        },
+        {
+            "startTime": "2025-10-13T05:59:56.7892660Z",
+            "endTime": "2025-10-13T05:59:58.3381040Z",
+            "targetAz": 270,
+            "responseAz": 315,
+            "reactionTime": 1.5488204956054688
+        },
+        {
+            "startTime": "2025-10-13T05:59:59.3370730Z",
+            "endTime": "2025-10-13T06:00:01.6091720Z",
+            "targetAz": 225,
+            "responseAz": 270,
+            "reactionTime": 2.2720794677734377
+        }
+    ]
+}
